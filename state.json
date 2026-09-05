@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "db-primary": {
+      "id": "db-primary",
+      "type": "database",
+      "fields": {
+        "replicas": 3,
+        "status": "active",
+        "tier": "silver"
+      }
+    },
+    "db-replica": {
+      "id": "db-replica",
+      "type": "database",
+      "fields": {
+        "replicas": 4,
+        "status": "active",
+        "tier": "bronze"
+      }
+    },
+    "sg-web": {
+      "id": "sg-web",
+      "type": "security_group",
+      "fields": {
+        "port": 443,
+        "ssh_cidr": "10.0.0.0/8",
+        "owner": "unassigned"
+      }
+    }
+  }
+}
