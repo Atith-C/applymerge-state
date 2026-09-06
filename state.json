@@ -24,7 +24,7 @@
       "fields": {
         "port": 443,
         "ssh_cidr": "10.0.0.0/8",
-        "owner": "unassigned"
+        "owner": "network team"
       }
     }
   }
