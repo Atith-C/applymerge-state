@@ -13,7 +13,7 @@
       "id": "db-replica",
       "type": "database",
       "fields": {
-        "replicas": 4,
+        "replicas": 3,
         "status": "active",
         "tier": "bronze"
       }
