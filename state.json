@@ -22,7 +22,7 @@
       "id": "sg-web",
       "type": "security_group",
       "fields": {
-        "port": 6054,
+        "port": 8008,
         "ssh_cidr": "10.0.0.0/8",
         "owner": "cyber-team"
       }
