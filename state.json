@@ -5,7 +5,7 @@
       "type": "database",
       "fields": {
         "replicas": 6,
-        "status": "active",
+        "status": "maintainance",
         "tier": "silver"
       }
     },
