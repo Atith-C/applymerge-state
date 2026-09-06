@@ -4,7 +4,7 @@
       "id": "db-primary",
       "type": "database",
       "fields": {
-        "replicas": 5,
+        "replicas": 7,
         "status": "maintainance",
         "tier": "gold"
       }
