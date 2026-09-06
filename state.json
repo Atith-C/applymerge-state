@@ -14,7 +14,7 @@
       "type": "database",
       "fields": {
         "replicas": 4,
-        "status": "active",
+        "status": "maintainance",
         "tier": "gold"
       }
     },
