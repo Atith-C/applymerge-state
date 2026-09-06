@@ -15,7 +15,7 @@
       "fields": {
         "replicas": 4,
         "status": "active",
-        "tier": "silver"
+        "tier": "platinum"
       }
     },
     "sg-web": {
