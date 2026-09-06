@@ -15,7 +15,7 @@
       "fields": {
         "replicas": 4,
         "status": "active",
-        "tier": "titanium"
+        "tier": "platinum"
       }
     },
     "sg-web": {
@@ -24,7 +24,7 @@
       "fields": {
         "port": 8008,
         "ssh_cidr": "10.0.0.0/8",
-        "owner": "cyber-team"
+        "owner": "platform-team"
       }
     }
   }
